@@ -1,7 +1,6 @@
 ﻿using SafeCrypt.Helpers;
 using SafeCrypt.Models;
 using SafeCrypt.AES;
-using SafeCrypt.RsaEncryption.Models;
 
 namespace SafeCrypt.UnitTests.AesTests;
 
